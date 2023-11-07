@@ -1,6 +1,9 @@
 <?php
 
+use App\Http\Controllers\Home;
+use Illuminate\Routing\Router;
 use Illuminate\Support\Facades\Route;
+use Illuminate\View\View;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,5 +17,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('');
+    return view('index');
 });
+
+
