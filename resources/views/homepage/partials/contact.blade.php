@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <div class="emmergency-hotline-content">
+                <div class="emme    rgency-hotline-content">
                     <h2>Emergency hotline</h2>
                     <h4><a href="tel:01234567890">(+01) – 234 567 890</a></h4>
                     <p>

@@ -31,4 +31,20 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
 
+
+    // 'google' => [
+    //     'client_id' => env('892043967432-0qo093schht6ce1rj7ptksf6o4me6h6u.apps.googleusercontent.com'),
+    //     'client_secret' => env('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'),
+    //     'redirect' => env('OAUTH_REDIRECT_URL'),
+    // ],
+    
+    // 'facebook' => [
+    //     'client_id' => env('FACEBOOK_CLIENT_ID'),
+    //     'client_secret' => env('FACEBOOK_CLIENT_SECRET'),
+    //     'redirect' => env('FACEBOOK_REDIRECT'),
+    // ],
+    
+
+
+
 ];
