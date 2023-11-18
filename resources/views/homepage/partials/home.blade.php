@@ -21,7 +21,7 @@
                 <div class="col-lg-2 logo-col">
                     <div class="logo-area">
                         <a href="#">
-                            <img src="/images/header-logo.png" alt="header-logo">
+                            <img src="/home/images/header-logo.png" alt="header-logo">
                         </a>
                     </div>
                 </div>
@@ -64,8 +64,8 @@
             </div>
             <div class="col-lg-5 hero-image">
                 <div class="hero-img">
-                    <img src="images/hero-img.png" alt="hero img">
-                    <img src="images/hero-img2.png" alt="hero img">
+                    <img src="/home/images/hero-img.png" alt="hero img">
+                    <img src="/home/images/hero-img2.png" alt="hero img">
                 </div>
             </div>
         </div>

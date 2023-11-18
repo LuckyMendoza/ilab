@@ -5,15 +5,18 @@
         </x-slot>
 
         <x-validation-errors class="mb-4" />
-
+        
         @if (session('status'))
             <div class="mb-4 font-medium text-sm text-green-600">
                 {{ session('status') }}
             </div>
         @endif
+        
+   
 
         <form method="POST" action="{{ route('login') }}">
             @csrf
+            
 
             <div>
                 <x-label for="email" value="{{ __('Email') }}" />
@@ -30,7 +33,9 @@
                     <x-checkbox id="remember_me" name="remember" />
                     <span class="ms-2 text-sm text-gray-600">{{ __('Remember me') }}</span>
                 </label>
+                
             </div>
+           
 
             <div class="flex items-center justify-end mt-4">
                 @if (Route::has('password.request'))

@@ -9,7 +9,7 @@
                 <div class="single-footer-item">
                     <div class="footer-logo">
                         <a href="#">
-                            <img src="images/footer-logo.png" alt="footer logo">
+                            <img src="/home/images/footer-logo.png" alt="footer logo">
                         </a>
                     </div>
                     <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
@@ -80,29 +80,29 @@
 
 <!--=================JS Start===================-->
 <!-- jquery js -->
-<script src="js/jquery-2.2.4.min.js"></script>
+<script src="/home/js/jquery-2.2.4.min.js"></script>
 <!-- bootstrap js -->
-<script src="js/bootstrap.min.js"></script>
+<script src="/home/js/bootstrap.min.js"></script>
 <!-- popper js -->
-<script src="js/popper.min.js"></script>
+<script src="/home/js/popper.min.js"></script>
 <!-- lightbox js -->
-<script src="js/lightbox.min.js"></script>
+<script src="/home/js/lightbox.min.js"></script>
 <!-- Sticky js -->
-<script src="js/jquery.sticky.js"></script>
+<script src="/home/js/jquery.sticky.js"></script>
 <!-- slicknav js -->
-<script src="js/jquery.slicknav.min.js"></script>
+<script src="/home/js/jquery.slicknav.min.js"></script>
 <!-- jquery.magnific-popup js -->
-<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="/home/js/jquery.magnific-popup.min.js"></script>
 <!-- mixitup js -->
-<script src="js/owl.carousel.min.js"></script>
+<script src="/home/js/owl.carousel.min.js"></script>
 <!-- wow js -->
-<script src="js/wow.min.js"></script>
+<script src="/home/js/wow.min.js"></script>
 <!-- ajaxchimp js -->
-<script src="js/ajaxchimp.min.js"></script>
+<script src="/home/js/ajaxchimp.min.js"></script>
 <!-- form-contact js -->
-<script src="js/form-contact.js"></script>
+<script src="/home/js/form-contact.js"></script>
 <!-- main js -->
-<script src="js/main.js"></script>
+<script src="/home/js/main.js"></script>
 <!--=================Js End===================-->
 
 </body>

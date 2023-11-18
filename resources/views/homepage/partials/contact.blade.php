@@ -50,7 +50,7 @@
             </div>
             <div class="col-lg-6 contact-col5">
                 <div class="map">
-                    <img src="images/map.jpg" alt="image" />
+                    <img src="/home/images/map.jpg" alt="image" />
                 </div>
             </div>
 

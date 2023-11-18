@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="about-img">
-                    <img src="images/about-img.png" alt="about img">
+                    <img src="/home/images/about-img.png" alt="about img">
                 </div>
             </div>
             <div class="col-lg-7">
@@ -53,7 +53,7 @@
                 </div>
             </div>
             <div class="col-lg-7 choose-img">
-                <img src="images/choose-img.png" alt="choose img">
+                <img src="/home/images/choose-img.png" alt="choose img">
 
                 <a href="https://www.youtube.com/watch?v=9_nyG2TUDcQ" class="play-btn mfp-iframe">
                   <img class="wave" src="images/play2.png" alt="play2">

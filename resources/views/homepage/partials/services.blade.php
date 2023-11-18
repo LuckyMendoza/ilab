@@ -16,37 +16,37 @@
                         <ul class="nav nav-tabs" id="myTab" role="tablist">
                             <li class="col-lg-2 nav-item">
                                 <a class="nav-link active" id="tab1" data-toggle="tab" href="#cardiology" role="tab" aria-controls="cardiology" aria-selected="true">
-                                    <img src="/images/cardiology.png" alt="cardiology">
+                                    <img src="/home/images/cardiology.png" alt="cardiology">
                                     <h4>cardiology</h4>
                                 </a>
                             </li>
                             <li class="col-lg-2 nav-item">
                                 <a class="nav-link" id="tab2" data-toggle="tab" href="#neurology" role="tab" aria-controls="neurology" aria-selected="false">
-                                    <img src="/images/neurology.png" alt="neurology">
+                                    <img src="/home/images/neurology.png" alt="neurology">
                                     <h4>neurology</h4>
                                 </a>
                             </li>
                             <li class="col-lg-2 nav-item">
                                 <a class="nav-link" id="tab3" data-toggle="tab" href="#dental" role="tab" aria-controls="dental" aria-selected="false">
-                                    <img src="/images/dental.png" alt="dental">
+                                    <img src="/home/images/dental.png" alt="dental">
                                     <h4>dental</h4>
                                 </a>
                             </li>
                             <li class="col-lg-2 nav-item">
                                 <a class="nav-link" id="tab4" data-toggle="tab" href="#orthopedic" role="tab" aria-controls="orthopedic" aria-selected="false">
-                                    <img src="/images/orthopedic.png" alt="orthopedic">
+                                    <img src="/home/images/orthopedic.png" alt="orthopedic">
                                     <h4>Orthopedic</h4>
                                 </a>
                             </li>
                             <li class="col-lg-2 nav-item">
                                 <a class="nav-link" id="tab5" data-toggle="tab" href="#laboratory" role="tab" aria-controls="laboratory" aria-selected="false">
-                                    <img src="/images/laboratory.png" alt="laboratory">
+                                    <img src="/home/images/laboratory.png" alt="laboratory">
                                     <h4>laboratory</h4>
                                 </a>
                             </li>
                             <li class="col-lg-2 nav-item">
                                 <a class="nav-link" id="tab6" data-toggle="tab" href="#emergency" role="tab" aria-controls="emergency" aria-selected="false">
-                                    <img src="/images/emergency.png" alt="emergency">
+                                    <img src="/home/images/emergency.png" alt="emergency">
                                     <h4>emergency</h4>
                                 </a>
                             </li>
@@ -55,7 +55,7 @@
                         <div class="single-department-details clearfix tab-pane fade show active" id="cardiology" role="tabpanel" aria-labelledby="tab1">
                             <div class="single-department-item">
                                 <div class="col-lg-5 department-col5">
-                                    <img src="/images/cardiology-img.png" alt="cardiology">
+                                    <img src="/home/images/cardiology-img.png" alt="cardiology">
                                 </div>
                                 <div class="col-lg-7 department-col7">
                                     <div class="department-details">
@@ -74,7 +74,7 @@
                         <div class="single-department-details clearfix tab-pane fade" id="neurology" role="tabpanel" aria-labelledby="tab1">
                             <div class="single-department-item">
                                 <div class="col-lg-5 department-col5">
-                                    <img src="/images/neurology-img.png" alt="neurology">
+                                    <img src="/home/images/neurology-img.png" alt="neurology">
                                 </div>
                                 <div class="col-lg-7 department-col7">
                                     <div class="department-details">
@@ -93,7 +93,7 @@
                         <div class="single-department-details clearfix tab-pane fade" id="dental" role="tabpanel" aria-labelledby="tab1">
                             <div class="single-department-item">
                                 <div class="col-lg-5 department-col5">
-                                    <img src="/images/dental-img.png" alt="dental img">
+                                    <img src="/home/images/dental-img.png" alt="dental img">
                                 </div>
                                 <div class="col-lg-7 department-col7">
                                     <div class="department-details">
@@ -112,7 +112,7 @@
                         <div class="single-department-details clearfix tab-pane fade" id="orthopedic" role="tabpanel" aria-labelledby="tab1">
                             <div class="single-department-item">
                                 <div class="col-lg-5 department-col5">
-                                    <img src="/images/orthopedic-img.png" alt="orthopedic img">
+                                    <img src="/home/images/orthopedic-img.png" alt="orthopedic img">
                                 </div>
                                 <div class="col-lg-7 department-col7">
                                     <div class="department-details">
@@ -131,7 +131,7 @@
                         <div class="single-department-details clearfix tab-pane fade" id="laboratory" role="tabpanel" aria-labelledby="tab1">
                             <div class="single-department-item">
                                 <div class="col-lg-5 department-col5">
-                                    <img src="/images/laboratory-img.png" alt="laboratory img">
+                                    <img src="/home/images/laboratory-img.png" alt="laboratory img">
                                 </div>
                                 <div class="col-lg-7 department-col7">
                                     <div class="department-details">
@@ -150,7 +150,7 @@
                         <div class="single-department-details clearfix tab-pane fade" id="emergency" role="tabpanel" aria-labelledby="tab1">
                             <div class="single-department-item">
                                 <div class="col-lg-5 department-col5">
-                                    <img src="/images/emergency-img.png" alt="emergency img">
+                                    <img src="/home/images/emergency-img.png" alt="emergency img">
                                 </div>
                                 <div class="col-lg-7 department-col7">
                                     <div class="department-details">
